@@ -9,6 +9,7 @@ QT6 libs
 
 # Compilation
 qmake6
+
 make
 
 # Usage
