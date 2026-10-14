@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="logo">images/koala.png</file>
+        <file alias="squirrel">squirrel.kla</file>
+        <file alias="tiger">tiger..kla</file>
+    </qresource>
+</RCC>
